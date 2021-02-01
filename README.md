@@ -7,11 +7,11 @@
   - once attack is over, re-route back to main domain
 - coding task:
   - use simple HTML, CSS and JavaScript
-  - the point here is NOT the config of redirecting and re-routing
+  - the point here is NOT the config of re-directing and re-routing
 
 ### This Repo is based on:
 
-- built from scratch according to delivered design
+- built from scratch according to delivered design / stakeholder request (slightly adapted b/c anonymisation)
 
 ### How to run this?
 
